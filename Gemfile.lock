@@ -83,7 +83,7 @@ GEM
     webmock (1.8.7)
       addressable (>= 2.2.7)
       crack (>= 0.1.7)
-    yard (0.8.3)
+    yard (0.9.25)
 
 PLATFORMS
   java
